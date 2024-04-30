@@ -15,7 +15,7 @@ This is a simple calculator program written in C language that takes two inputs 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+ git clone https://github.com/eddie-dotcom/calculator.git
    
 ## Example
 
